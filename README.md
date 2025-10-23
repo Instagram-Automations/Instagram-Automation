@@ -50,12 +50,24 @@ It is designed for creators, marketers, and agencies seeking to save time and im
 | Human-like Delay System | Mimics real user behavior to avoid bans. |
 | Error Handling & Retry Logic | Ensures stable runs even under rate limits or temporary API blocks. |
 
+
+</p>
+<p align="center">
+  <a href="https://bitbash.dev" target="_blank">
+    <img src="media/instagram-automation.png" alt="instagram-automation" width="95%">
+  </a>
+</p>
+
+---
+
 </p>
 <p align="center">
   <a href="https://bitbash.dev" target="_blank">
     <img src="media/instagram-automation-architecture.png" alt="instagram-automation-architecture" width="55%" height="630px">
   </a>
 </p>
+
+---
 
 ## How It Works
 1. **Trigger:** User configures campaign targets, hashtags, or engagement lists.  
