@@ -53,7 +53,7 @@ It is designed for creators, marketers, and agencies seeking to save time and im
 </p>
 <p align="center">
   <a href="https://bitbash.dev" target="_blank">
-    <img src="media/instagram-automation-architecture.png" alt="instagram-automation-architecture" width="95%">
+    <img src="media/instagram-automation-architecture.png" alt="instagram-automation-architecture" width="55%" height="630px">
   </a>
 </p>
 
