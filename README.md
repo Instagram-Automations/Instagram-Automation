@@ -53,17 +53,8 @@ It is designed for creators, marketers, and agencies seeking to save time and im
 
 </p>
 <p align="center">
-  <a href="https://bitbash.dev" target="_blank">
+  <a href="https://appilot.app" target="_blank">
     <img src="media/instagram-automation.png" alt="instagram-automation" width="95%">
-  </a>
-</p>
-
----
-
-</p>
-<p align="center">
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="media/instagram-automation-architecture.png" alt="instagram-automation-architecture" width="55%" height="630px">
   </a>
 </p>
 
@@ -77,18 +68,12 @@ It is designed for creators, marketers, and agencies seeking to save time and im
 5. **Output:** Generates real-time analytics, engagement summaries, and exportable reports.
 
 ## Tech Stack
-- **Language:** Python, JavaScript  
-- **Frameworks:** Selenium, Puppeteer, Playwright  
-- **Tools:** AdsPower, GoLogin, Multilogin, API Integration  
-- **Infrastructure:** Docker, Task Queues, Cron Jobs, Cloud Scheduler  
+- **Language:** Python, JavaScript, Kotlin, Java, Node.js
+- **Frameworks:** Appium, UIAutomator2, XCUITest, Espresso, Playwright for mobile.
+- **Tools:** Appilot, Android Debug Bridge (ADB), Appium Inspector, Genymotion, Bluestacks, Nox Player.  
+- **Infrastructure:** Dockerized device farms, Cloud-based emulators, Proxy networks, Parallel Device Execution, Real Device Farms. 
 - **Logging:** Rotating file handlers with structured JSON output  
 
-## Example Workflow
-1. User uploads a list of target usernames or hashtags.  
-2. Automation launches headless browser sessions.  
-3. Bot likes and follows relevant profiles with human-like intervals.  
-4. Sends customized DMs to engage new followers.  
-5. Collects and exports engagement reports.
 
 ## Directory Structure
 ```
