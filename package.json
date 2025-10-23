@@ -1,0 +1,19 @@
+{
+  "name": "instagram-automation",
+  "version": "1.0.0",
+  "description": "Automation toolkit for Instagram engagement, scheduling, and messaging with mock and real-browser modes.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "NODE_ENV=development node src/index.js",
+    "test": "node --test --test-reporter=spec"
+  },
+  "dependencies": {
+    "cron": "3.1.7",
+    "dotenv": "16.4.5",
+    "pino": "9.4.0",
+    "pino-pretty": "11.2.2",
+    "playwright": "1.48.0"
+  }
+}
