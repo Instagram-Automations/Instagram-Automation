@@ -1,8 +1,6 @@
 # Instagram Automation
 
-> Instagram Automation streamlines engagement, content scheduling, and audience interactions through advanced workflow bots.  
-> It eliminates manual tasks like posting, following, and messaging, enabling creators, brands, and marketers to scale efficiently.  
-> Built with precision and flexibility, it’s your end-to-end automation toolkit for Instagram.
+> Instagram Automation streamlines engagement, content scheduling, and audience interactions through advanced workflow bots. It eliminates manual tasks like posting, following, and messaging, enabling creators, brands, and marketers to scale efficiently. Built with precision and flexibility, it’s your end-to-end automation toolkit for Instagram.
 
 <p align="center"> 
    <a href="https://appilot.app" target="_blank">
