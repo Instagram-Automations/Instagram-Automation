@@ -10,7 +10,7 @@
    <a href="https://t.me/devpilot1" target="_blank">
       <img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
    </a>&nbsp; 
-   <a href="https://wa.me/923249868488?text=Hi%20Zeeshan%2C%20I'm%20interested%20in%20automation." target="_blank"> 
+   <a href="https://wa.me/923249868488?text=Hi%20BitBash%2C%20I'm%20interested%20in%20automation." target="_blank"> 
       <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"> 
    </a>&nbsp; 
    <a href="mailto:support@appilot.app" target="_blank"> 
